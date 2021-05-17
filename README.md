@@ -20,7 +20,7 @@ _______________________________________________________________
  * Initializing the db from project and seeding data
 
 
-<img src='Assets/categories.gif' alt="database">
+<img src='Assets/database.gif' alt="database">
 
 _______________________________________________________________
 
