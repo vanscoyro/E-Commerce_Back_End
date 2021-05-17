@@ -15,6 +15,17 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+### Demo:
+
+ * Initializing the db from project and seeding data
+
+
+<img src='Assets/categories.gif' alt="database">
+
+_______________________________________________________________
+
+
+
 ### Main Language : 
 * node.js
 <img src = "https://img.shields.io/badge/node.js%20-%2343853D.svg" alt="language-badge">
