@@ -28,6 +28,30 @@ https://youtu.be/c_ZdoNW-jUE
 
 <img src='Assets/database.gif' alt="database">
 
+
+ * Get all data from all routes
+
+
+<img src='Assets/getRoutes.gif' alt="get from all routes">
+
+
+ * POST UPDATE and DELETE for Products
+
+
+<img src='Assets/productRoutes.gif' alt="Products">
+
+
+ * POST UPDATE and DELETE for Tags
+
+
+<img src='Assets/tagRoutes.gif' alt="Tags">
+
+
+ * POST UPDATE and DELETE for Categories
+
+
+<img src='Assets/categoryRoutes.gif' alt="Categories">
+
 _______________________________________________________________
 
 
@@ -54,6 +78,7 @@ _______________________________________________________________
 * [Description](#description)
 * [License](#license-)
 * [Installation](#installation-instructions)
+* [Demo](#demo)
 * [Main Language](#main-language-)
 * [Contribution Policy](#contribution-policy)
 * [Test Case](#test-cases)
